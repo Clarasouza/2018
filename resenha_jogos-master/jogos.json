@@ -1,0 +1,31 @@
+
+[
+	{
+	"id": 1,
+	"titulo": "Fortnite",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "jogo.jpg",
+	"classificacao": "3"  
+	},
+	{
+	"id":2,
+	"titulo": "Overwatch",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "ovw.jpg",
+	"classificacao": "3"  
+	},
+	{
+	"id":3,
+	"titulo": "God of War",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "god.jpg",
+	"classificacao": "4"
+	},
+	{
+	"id":4,
+	"titulo": "Elsword",
+	"sinopse": "descricao descricao descricao descricao descricao descricao",
+	"img": "els.jpg",
+	"classificacao": "2"
+	}
+]
